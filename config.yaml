@@ -1,0 +1,13 @@
+params:
+  profileMode:
+    enabled: true
+    title: "Your Name"
+    subtitle: "Your Job Title or Tagline"
+    imageUrl: "/images/profile.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: GitHub
+        url: "https://github.com/yourusername"
+      - name: LinkedIn
+        url: "https://linkedin.com/in/yourprofile"

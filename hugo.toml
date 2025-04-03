@@ -1,0 +1,28 @@
+baseURL = 'https://sergiuser.dev'
+languageCode = 'en-uk'
+title = "Sergiu Ojog"
+theme = "hugo-PaperMod"
+
+[params]
+  [params.profileMode]
+  enabled = true
+  subtitle = "Software Engineering and Cyber Security"
+
+  # No buttons section here
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/sergiuser1"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/sergiu-ojog/"
+
+  [[params.socialIcons]]
+  name = "cv"
+  url = "/cv.pdf"
+
+  hideFooter = true
+
+[params.footer]
+  disableCopyright = true
