@@ -1,4 +1,4 @@
-baseURL = 'https://sergiuser.dev'
+baseURL = 'http://sergiuser.dev'
 languageCode = 'en-uk'
 title = "Sergiu Ojog"
 theme = "hugo-PaperMod"
@@ -7,8 +7,6 @@ theme = "hugo-PaperMod"
   [params.profileMode]
   enabled = true
   subtitle = "Software Engineering and Cyber Security"
-
-  # No buttons section here
 
   [[params.socialIcons]]
   name = "github"
