@@ -6,6 +6,7 @@ theme = "hugo-PaperMod"
 [params]
   [params.profileMode]
   enabled = true
+  title = "Sergiu Ojog"
   subtitle = "Software Engineering and Cyber Security"
 
   [[params.socialIcons]]
